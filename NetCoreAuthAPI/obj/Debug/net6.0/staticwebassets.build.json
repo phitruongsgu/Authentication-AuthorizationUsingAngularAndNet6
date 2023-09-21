@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SghcgmUnlIfB8RGySu/CU+Hzn5m5RMAcyJ3O2q7WdIQ=",
+  "Source": "NetCoreAuthAPI",
+  "BasePath": "_content/NetCoreAuthAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
